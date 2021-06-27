@@ -22,7 +22,7 @@ https://www.linkedin.com/in/alfred-soegiarto-11b6291b7
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000000?style=flat&logo=typescript&logoColor=007ACC)
 
-![PHP](https://img.shields.io/badge/-PHP-000000?style=flat&logo=php)
+![C](https://img.shields.io/badge/-C-000000?style=flat&logo=C)
 ![Java](https://img.shields.io/badge/-Java-000000?style=flat&logo=java&logoColor=F6A032)
 ![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
 ![Go](https://img.shields.io/badge/Go-000000?style=flat&logo=go&logoColor=00000)
