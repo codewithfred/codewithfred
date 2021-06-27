@@ -26,6 +26,7 @@ https://www.linkedin.com/in/alfred-soegiarto-11b6291b7
 ![Java](https://img.shields.io/badge/-Java-000000?style=flat&logo=java&logoColor=F6A032)
 ![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
 ![Go](https://img.shields.io/badge/Go-000000?style=flat&logo=go&logoColor=00000)
+![C#](https://img.shields.io/badge/C%23-000000?style=flat&logo=c-sharp&logoColor=00000)
 
 ![Angular](https://img.shields.io/badge/-Angular-000000?style=flat&logo=angular&logoColor=DD0031)
 ![Laravel](https://img.shields.io/badge/-Laravel-000000?style=flat&logo=laravel&logoColor=FF2D20)
